@@ -2,8 +2,8 @@
 // includes/config.php
 $host = 'localhost';
 $db = 'biblioteca';
-$user = 'leonardo';
-$pass = '76811927'; // cambia si usas contraseña
+$user = '';
+$pass = ''; // cambia si usas contraseña
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
